@@ -1,11 +1,11 @@
 # mclang
 
-![Tests](https://github.com/legopitstop/mclang/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/legopitstop/mclang-py/actions/workflows/tests.yml/badge.svg)
 [![PyPI](https://img.shields.io/pypi/v/mclang)](https://pypi.org/project/mclang/)
 [![Python](https://img.shields.io/pypi/pyversions/mclang)](https://www.python.org/downloads//)
 ![Downloads](https://img.shields.io/pypi/dm/mclang)
 ![Status](https://img.shields.io/pypi/status/mclang)
-[![Issues](https://img.shields.io/github/issues/legopitstop/mclang)](https://github.com/legopitstop/mclang/issues)
+[![Issues](https://img.shields.io/github/issues/legopitstop/mclang-py)](https://github.com/legopitstop/mclang-py/issues)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 Create or open Minecraft: Bedrock Edition `.lang` files.
